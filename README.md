@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/BrendaVieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendaVieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaVieira&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrendaVieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaVieira&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
 ## Habilidades
