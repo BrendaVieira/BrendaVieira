@@ -2,6 +2,12 @@
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º período.
 - 🌱 Focada atualmente em C, HTML5, CSS3, PHP, JavaScript.
 
+<div>
+  <a href="https://github.com/BrendaVieira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendaVieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaVieira&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+ 
 ## Habilidades
 <div style="display: inline_block"><br><p align="center">
  <img align="center" alt="Brenda-C" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
