@@ -1,11 +1,6 @@
 ## Oiii! Eu sou a Brenda Vieira Cardoso.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º período.
-- 🌱 Focada atualmente em C, HTML5, CSS3, JavaScript.
-
-<div>
-   <a href="https://github.com/rafaballerini">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendaVieira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- </div>
+- 🌱 Focada atualmente em C, HTML5, CSS3, PHP, JavaScript.
 
 ## Habilidades
 <div style="display: inline_block"><br><p align="center">
