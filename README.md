@@ -1,5 +1,5 @@
 ## Oiii! Eu sou a Brenda Vieira Cardoso.
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º período.
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, cursando o 4º período.
 - 🌱 Focada atualmente em C, PHP, Java, HTML5, CSS3, JavaScript.
 
 <div>
