@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Brenda Vieira Cardoso.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º período.
-- 🌱 Focada atualmente em C, HTML5, CSS3, PHP, JavaScript.
+- 🌱 Focada atualmente em C, PHP, Java, HTML5, CSS3, JavaScript.
 
 <div>
   <a href="https://github.com/BrendaVieira">
@@ -11,8 +11,11 @@
 ## Habilidades
 <div style="display: inline_block"><br><p align="center">
  <img align="center" alt="Brenda-C" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Brenda-PHP" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Brenda-JAVA" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Brenda-HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Brenda-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Brenda-JAVASCRIPT" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p></div>
  
 ## Entre em contato comigo
